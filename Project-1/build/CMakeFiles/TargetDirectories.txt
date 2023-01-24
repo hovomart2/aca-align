@@ -1,0 +1,8 @@
+C:/Users/Asus/Desktop/Project-1/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Asus/Desktop/Project-1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Desktop/Project-1/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Asus/Desktop/Project-1/build/src/CMakeFiles/RUN_TESTS.dir
+C:/Users/Asus/Desktop/Project-1/build/src/my_functions/CMakeFiles/my_functions.dir
+C:/Users/Asus/Desktop/Project-1/build/src/my_functions/CMakeFiles/RUN_TESTS.dir
+C:/Users/Asus/Desktop/Project-1/build/tests/CMakeFiles/my_functions_test.dir
+C:/Users/Asus/Desktop/Project-1/build/tests/CMakeFiles/RUN_TESTS.dir

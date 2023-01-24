@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\PROJECT-1\SRC\MY_FUNCTIONS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Asus/Desktop/Project-1 -BC:/Users/Asus/Desktop/Project-1/build --check-stamp-file C:/Users/Asus/Desktop/Project-1/build/src/my_functions/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
